@@ -77,3 +77,39 @@ Contributions are welcome! Feel free to submit issues or pull requests.
 # License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
+# HTML
+# Teacher Management System HTML Files
+
+This repository contains HTML files for a simple Teacher Management System.
+
+## Overview
+
+There are two HTML files in this repository:
+
+1. `save-teacher.html`: This file is used to add a new teacher to the system.
+2. `teachers-list.html`: This file displays a list of teachers and allows for updating or deleting existing teachers.
+
+## File Descriptions
+
+### `save-teacher.html`
+
+This file provides a form for adding a new teacher to the system. It includes input fields for the teacher's first name, last name, and email address. Upon submission of the form, the data is sent to the server for processing.
+
+### `teachers-list.html`
+
+This file displays a table of all teachers currently in the system. It includes columns for the teacher's ID, first name, last name, and email address. Additionally, it provides buttons for updating or deleting each teacher.
+
+## Usage
+
+To use these HTML files:
+
+1. Open the desired HTML file in a web browser.
+2. Follow the instructions provided on the page to add or manage teachers in the system.
+
+## Dependencies
+
+- Bootstrap CSS: The HTML files use Bootstrap for styling. The necessary CSS files are included via CDN links in the `<head>` section of each HTML file.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
