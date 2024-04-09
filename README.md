@@ -23,11 +23,14 @@ public class TeacherController {
 
 ## Service Layer
 The TeacherService class contains methods to interact with the database and perform operations on teacher entities. It implements the TeacherServiceInterface.
-[![aa](https://github.com/MN10101/teacherManagementSystem/assets/78208459/90aa8731-ec92-4816-9c40-e54061a66f34)](https://github.com/MN10101/teacherManagementSystem/issues/2#issue-2233827813)
+
+![aa](https://github.com/MN10101/teacherManagementSystem/assets/78208459/a8c6d506-48cb-4512-8816-1ca12b7acd6b)
 
 
 
 ## DAO
 The TeacherRepository interface extends JpaRepository to provide CRUD operations for the Teacher entity.
 
-![aaa](https://github.com/MN10101/teacherManagementSystem/assets/78208459/8f69fccf-39bb-48fa-ae40-9ffa5ecbdddb)
+![aaa](https://github.com/MN10101/teacherManagementSystem/assets/78208459/a19d9d48-41e1-47d7-aaae-3e0162b62503)
+
+
