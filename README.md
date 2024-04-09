@@ -23,7 +23,7 @@ public class TeacherController {
 
 ## Service Layer
 The TeacherService class contains methods to interact with the database and perform operations on teacher entities. It implements the TeacherServiceInterface.
-![aa](https://github.com/MN10101/teacherManagementSystem/assets/78208459/90aa8731-ec92-4816-9c40-e54061a66f34)
+[![aa](https://github.com/MN10101/teacherManagementSystem/assets/78208459/90aa8731-ec92-4816-9c40-e54061a66f34)](https://github.com/MN10101/teacherManagementSystem/issues/2#issue-2233827813)
 
 
 
