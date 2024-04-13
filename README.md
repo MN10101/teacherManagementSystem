@@ -178,3 +178,7 @@ To set up the database for the Teacher Management System:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
+## Author
+
+- Mahmoud Najmeh
+
