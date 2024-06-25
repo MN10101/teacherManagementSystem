@@ -174,9 +174,6 @@ To set up the database for the Teacher Management System:
 
 - MySQL: The SQL script is intended for use with MySQL databases.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Author
 
